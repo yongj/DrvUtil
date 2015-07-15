@@ -8,3 +8,5 @@ Maintainer: person("Yong", "Jiang", email = "yong.jiang@wdc.com", role = c("aut"
 Description: Data Process Package for Drive FA. It contains all the functions that make drive FA easier.
 License: file LICENSE
 LazyData: TRUE
+Suggests: knitr
+VignetteBuilder: knitr
