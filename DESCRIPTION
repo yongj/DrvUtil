@@ -3,8 +3,7 @@ Type: Package
 Title: Data Process Package for Drive FA
 Version: 0.1
 Date: 2015-07-15
-Author: Yong Jiang
-Maintainer: person("Yong", "Jiang", email = "yong.jiang@wdc.com", role = c("aut", "cre"))
+Authors@R: person("Yong", "Jiang", email = "yong.jiang@wdc.com", role = c("aut", "cre"))
 Description: Data Process Package for Drive FA. It contains all the functions that make drive FA easier.
 License: file LICENSE
 LazyData: TRUE
