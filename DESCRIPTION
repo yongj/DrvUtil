@@ -1,10 +1,10 @@
 Package: DrvUtil
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Data Process Package for Drive FA
 Version: 0.1
 Date: 2015-07-15
-Author: Your name goes here
-Maintainer: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Yong Jiang
+Maintainer: person("Yong", "Jiang", email = "yong.jiang@wdc.com", role = c("aut", "cre"))
+Description: Data Process Package for Drive FA. It contains all the functions that make drive FA easier.
+License: file LICENSE
 LazyData: TRUE
